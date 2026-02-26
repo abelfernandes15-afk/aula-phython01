@@ -1,2 +1,2 @@
-# aula-_phython01
+# aula-phython01
 repositorio para armazenamento de conteudo
