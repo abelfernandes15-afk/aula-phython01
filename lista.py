@@ -1,0 +1,11 @@
+a,b,c,d,e,f,g,h,i,j = "joao","ana","adao","pedro","teo","cristina","eva","taina","maisa","tiago"
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+print(g)
+print(h)
+print(i)
+print(j)
