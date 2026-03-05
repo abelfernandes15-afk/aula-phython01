@@ -14,7 +14,7 @@ quantidade_vendida =int(input('\n informe quatidade vendida'))
 # atualizar estoque
 if nome_produto in estoque:
     if quantidade_vendida <= estoque[nome_produto]:
-        estoque[nome_produto] = estoque[nome_produto] - quantidade_vendida
+        estoque[nome_produto] <= estoque[nome_produto] - quantidade_vendida
         print('venda realizada com sucesso')
     else:
         print('produto nao encontrada')
