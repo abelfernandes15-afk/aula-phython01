@@ -1,11 +1,11 @@
 while True:
-    escolha = str(input('confirmar opçao'))
+    escolha = str(input('confirmar opçao:'))
     match escolha:
-    case "sim"| 'yes'| 'y'
+     case 'sim'| 'yes'| 'y':
       print('confirmado')
       break
-    case "nao"| "no"|"nope"
+     case "nao"| "no"|"nope":
       print('rejeitado')
       break
-    case _ :
+     case _ :
       print('selecione novamente')
